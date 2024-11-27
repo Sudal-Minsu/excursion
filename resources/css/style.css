@@ -1,3 +1,32 @@
-h1 {
-  color : greenyellow; 
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+}
+
+.download {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.guide {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.a {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 21px;
+  color: gray;
+}
+
+.right {
+  text-align: right;
+  color: gray;
 }
